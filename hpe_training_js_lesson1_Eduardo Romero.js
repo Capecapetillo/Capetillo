@@ -1,19 +1,18 @@
-Var hola;
-var soy;
-var buena;
-var onda;
-var aqui;
+var a = "hola";
+var b = "soy";
+var c = "buena";
+var d = "onda";
+var e = "aqui";
 
-hola.length
-soy.length
-buena.length
-onda.length
-aqui.length
+var a = "hola"; a.length
+var b = "soy"; b.length
+var c = "buena"; c.length
+var d = "onda"; d.length
+var e = "aqui" e.length
 
 var teams = ["leon","jaguares","puebla","santos"];
 var sizes = [12, 23, 45, 56];
 var mixed = [45, "ale", "marix", 78];
-var arrayName = [data, data, data];
 
 console.log("hola");
 console.log("mi")
@@ -26,8 +25,8 @@ console.log("capetillo");
 console.log("tengo");
 console.log("años");
 
-confirm ("Is this your real number?");
-confirm ("Do you like traveling?");
-confirm ("How old are you?");
-confirm ("Where are you from");
-confirm ("Are you single?")
+prompt ("Is this your real number?");
+prompt ("Do you like traveling?");
+prompt ("How old are you?");
+prompt ("Where are you from");
+prompt ("Are you single?");
