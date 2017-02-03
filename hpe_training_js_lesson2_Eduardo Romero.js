@@ -25,9 +25,6 @@ end = 5,
 subcadena = cadena.substring(start, end);
 console.log(cadena);
 
-console.log("Metallica".substring(0,2));
-
-
 var cadena = "para nuestro projecto",
 start = 1,
 end = 3,
